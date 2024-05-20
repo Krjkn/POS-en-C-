@@ -1,0 +1,54 @@
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\bin\Debug\SAI MOBIL-ESHOP.exe.config
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\bin\Debug\SAI MOBIL-ESHOP.exe
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\bin\Debug\SAI MOBIL-ESHOP.pdb
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.login.resources
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.Properties.Resources.resources
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.csproj.GenerateResource.cache
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.exe
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.pdb
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.agregar.resources
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.home.resources
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.Form1.resources
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.modificar.resources
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.ventas.resources
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.TicketNotificacion.resources
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.DetallesVenta.resources
+C:\Users\Angel\source\repos\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.Usuarios.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\bin\Debug\SAI MOBIL-ESHOP.exe.config
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\bin\Debug\SAI MOBIL-ESHOP.exe
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\bin\Debug\SAI MOBIL-ESHOP.pdb
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.csproj.AssemblyReference.cache
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.agregar.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.DetallesVenta.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.Form1.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.home.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.login.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.modificar.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.Properties.Resources.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.TicketNotificacion.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.Usuarios.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.ventas.resources
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.csproj.GenerateResource.cache
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.exe
+C:\Users\Alvaro Reyes\Downloads\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.pdb
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.csproj.AssemblyReference.cache
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.agregar.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.DetallesVenta.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.Form1.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.home.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.login.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.modificar.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.Properties.Resources.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.TicketNotificacion.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.Usuarios.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI_MOBIL_ESHOP.ventas.resources
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.csproj.GenerateResource.cache
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.csproj.CoreCompileInputs.cache
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.exe
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\obj\Debug\SAI MOBIL-ESHOP.pdb
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\bin\Debug\SAI MOBIL-ESHOP.exe.config
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\bin\Debug\SAI MOBIL-ESHOP.exe
+D:\Programacion\Desarrollos C# PUNTONET\SAI MOBIL-ESHOP 27-04-2024\SAI MOBIL-ESHOP\SAI MOBIL-ESHOP\bin\Debug\SAI MOBIL-ESHOP.pdb

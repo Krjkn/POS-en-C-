@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14083B4F-AC9B-457A-9B5D-25FD1B0EE689}|SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP.csproj|d:\\programacion\\desarrollos c# puntonet\\sai mobil-eshop 27-04-2024\\sai mobil-eshop\\sai mobil-eshop\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14083B4F-AC9B-457A-9B5D-25FD1B0EE689}|SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP.csproj|solutionrelative:sai mobil-eshop\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14083B4F-AC9B-457A-9B5D-25FD1B0EE689}|SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP.csproj|D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\sai mobil-eshop\\detallesventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14083B4F-AC9B-457A-9B5D-25FD1B0EE689}|SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP.csproj|solutionrelative:sai mobil-eshop\\detallesventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14083B4F-AC9B-457A-9B5D-25FD1B0EE689}|SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP.csproj|D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\sai mobil-eshop\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14083B4F-AC9B-457A-9B5D-25FD1B0EE689}|SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP.csproj|solutionrelative:sai mobil-eshop\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14083B4F-AC9B-457A-9B5D-25FD1B0EE689}|SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP.csproj|D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\sai mobil-eshop\\ventadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14083B4F-AC9B-457A-9B5D-25FD1B0EE689}|SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP.csproj|solutionrelative:sai mobil-eshop\\ventadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ventas.cs",
+              "DocumentMoniker": "D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP\\ventas.cs",
+              "RelativeDocumentMoniker": "SAI MOBIL-ESHOP\\ventas.cs",
+              "ToolTip": "D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP\\ventas.cs",
+              "RelativeToolTip": "SAI MOBIL-ESHOP\\ventas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:54:04.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ventas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP\\ventas.cs",
+              "RelativeDocumentMoniker": "SAI MOBIL-ESHOP\\ventas.cs",
+              "ToolTip": "D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP\\ventas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SAI MOBIL-ESHOP\\ventas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:49:36.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaDB.cs",
+              "DocumentMoniker": "D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP\\VentaDB.cs",
+              "RelativeDocumentMoniker": "SAI MOBIL-ESHOP\\VentaDB.cs",
+              "ToolTip": "D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP\\VentaDB.cs",
+              "RelativeToolTip": "SAI MOBIL-ESHOP\\VentaDB.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:49:10.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetallesVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP\\DetallesVenta.cs",
+              "RelativeDocumentMoniker": "SAI MOBIL-ESHOP\\DetallesVenta.cs",
+              "ToolTip": "D:\\Programacion\\Desarrollos C# PUNTONET\\SAI MOBIL-ESHOP 27-04-2024\\SAI MOBIL-ESHOP\\SAI MOBIL-ESHOP\\DetallesVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SAI MOBIL-ESHOP\\DetallesVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:49:02.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
